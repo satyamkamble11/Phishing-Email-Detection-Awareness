@@ -1,0 +1,29 @@
+# Phishing Email Detection & Awareness Report
+
+## Introduction
+Phishing is a cyber attack where attackers send fake emails to trick users into revealing sensitive information.
+
+## Objectives
+To analyze phishing emails and educate users on identifying and preventing such attacks.
+
+## Tools Used
+Public phishing datasets, email header analysis tools, and browser inspection tools were used.
+
+## Phishing Indicators
+- Spoofed sender addresses
+- Fake domains
+- Malicious links
+- Urgent language
+- Suspicious attachments
+
+## Email Analysis
+Multiple phishing and legitimate emails were analyzed and classified based on observed indicators.
+
+## Risk Explanation
+Phishing can result in data theft, financial loss, and system compromise.
+
+## Prevention Guidelines
+Users must verify emails, avoid suspicious links, and report phishing attempts.
+
+## Conclusion
+This project demonstrates practical phishing detection techniques and highlights the importance of cybersecurity awareness.

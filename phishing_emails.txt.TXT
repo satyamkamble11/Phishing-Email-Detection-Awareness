@@ -1,0 +1,29 @@
+Email 1:
+Sender: support@paypaI.com
+Subject: Urgent Account Verification
+Link: http://paypal-secure-login.xyz
+Reason: Fake domain, urgent language
+
+Email 2:
+Sender: amazon-help@amaz0n.com
+Subject: Payment Failed
+Link: http://amazon-billing-update.top
+Reason: Spoofed sender and malicious link
+
+Email 3:
+Sender: bank@securebank-alert.com
+Subject: Account Locked
+Attachment: verify.html
+Reason: Dangerous attachment
+
+Email 4:
+Sender: admin@office365-security.net
+Subject: Password Expiry Notice
+Link: Shortened URL
+Reason: Fake Microsoft domain
+
+Email 5:
+Sender: hr@company-payroll.info
+Subject: Salary Update
+Attachment: salary_update.zip
+Reason: Suspicious attachment

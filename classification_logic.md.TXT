@@ -1,0 +1,5 @@
+## Email Classification Logic
+
+- SAFE: Verified sender, clean domain, no threats
+- SUSPICIOUS: Minor mismatch or unclear intent
+- PHISHING: Fake sender, malicious links, urgent threats

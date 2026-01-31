@@ -1,0 +1,24 @@
+Email 1:
+Sender: noreply@google.com
+Subject: Security Alert
+Reason: Verified domain
+
+Email 2:
+Sender: billing@amazon.in
+Subject: Order Confirmation
+Reason: Trusted sender and clean link
+
+Email 3:
+Sender: support@netflix.com
+Subject: Subscription Renewal
+Reason: No suspicious content
+
+Email 4:
+Sender: alerts@bankofindia.co.in
+Subject: Monthly Statement
+Reason: Official bank domain
+
+Email 5:
+Sender: no-reply@linkedin.com
+Subject: New Login Alert
+Reason: Legitimate sender

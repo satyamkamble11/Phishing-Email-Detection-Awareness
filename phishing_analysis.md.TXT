@@ -1,0 +1,14 @@
+## Phishing Email Analysis
+
+Each email was analyzed based on:
+- Sender email authenticity
+- Domain validity
+- Link behavior
+- Language urgency
+- Attachments
+
+Example Analysis:
+The email from support@paypaI.com was classified as phishing due to a spoofed sender address and a fake login domain designed to steal credentials.
+
+Risk:
+If clicked, the user’s login credentials could be compromised.

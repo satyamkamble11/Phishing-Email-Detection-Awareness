@@ -1,0 +1,12 @@
+## Phishing Prevention Guidelines
+
+### For Users
+- Verify sender email addresses
+- Do not click unknown links
+- Never share passwords or OTPs
+- Report suspicious emails
+
+### For Organizations
+- Conduct awareness training
+- Enable spam filtering
+- Use multi-factor authentication
